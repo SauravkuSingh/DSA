@@ -1,0 +1,9 @@
+Here in  this i will be learning DSA and solving  problems from Leetcode ,Striver and many more ...
+It might  help you based on my learning i will be creating a learning file of each folder  with the help of this u can also learn .
+
+//---  It is not a CheetSheet ----//
+
+Please follow  this github repositry in future it will get more helpful to you 
+
+
+------------------------THANK YOU-------------------------
