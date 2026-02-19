@@ -1,9 +1,8 @@
 /*
-        1
-        01
-        101
-        0101
-        10101
+        A
+        AB
+        ABC
+        ABCD
  
  print this pattern
 */
